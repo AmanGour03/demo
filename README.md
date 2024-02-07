@@ -1,4 +1,4 @@
 # demo
 HI!! Aman Gour this side.
 <br>
-Trying to learn about Git and GitHub
+I am trying to learn about Git and GitHub
